@@ -1,7 +1,7 @@
-#PreAnt Starter App
+# PreAnt Starter App
 
-![PreAnt][./src/assets/images/icon.png]
+[PreAnt][(https://github.com/ivrusson/preantd/blob/master/src/assets/images/icon.png?raw=true)]
 
 ----
 
-##Writing Docs
+##  Writing Docs
