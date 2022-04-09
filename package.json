@@ -22,7 +22,7 @@
     "expo-font": "~7.0.0",
     "expo-web-browser": "~7.0.0",
     "lokijs": "^1.5.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "parse": "^2.9.1",
     "qs": "^6.9.0",
     "rc-form": "^2.4.11",
